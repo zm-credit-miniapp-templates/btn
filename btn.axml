@@ -1,0 +1,9 @@
+<!--
+  text: string
+-->
+<template name="btn">
+  <view>
+    <button type="primary"> {{text}} </button>
+    <button type="warn"> {{text}} </button>
+  </view>
+</template>
